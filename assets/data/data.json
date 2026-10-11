@@ -1,0 +1,183 @@
+{
+  "_detail": {
+    "rules": {
+      "write": false
+    },
+    "fileName": "data",
+    "sha": "30e112e480ffbc44ad2837144ca27ea98c0c1349",
+    "lastId_seller": 2,
+    "lastUpdate": "2025-08-14T20:30:18.822Z"
+  },
+  "seller": [
+    {
+      "id": 1,
+      "slug": "dekeku",
+      "pemilik": "Wahyu Ajis Mustofa",
+      "nama": "Dekeku",
+      "kontak": 6285161517176,
+      "katalog_page": "/dekeku.html",
+      "home_page": "https://www.dekeku.my.id",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-dekeku.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/dekeku-dark.svg",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/dekeku-light.svg",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6285161517176",
+        "facebook": "https://www.facebook.com/mustofa.wahyuajis",
+        "instagram": "https://instagram.com/mustofa.wahyuajis"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "artoprinting",
+      "pemilik": "Miftahul",
+      "nama": "Arto Printing",
+      "kontak": 6285712110870,
+      "katalog_page": "/artoprinting.html",
+      "home_page": "https://www.artoprintingpbg.com",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-artoprinting.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/artoprinting.png",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/artoprinting.png",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6285712110870",
+        "facebook": "https://www.facebook.com/tahulmamaz.salachy",
+        "instagram": "https://www.instagram.com/artoprinting_pbg/"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "desain-se",
+      "pemilik": "Sedya Pangasih",
+      "nama": "Desain_Se",
+      "kontak": 6283844699412,
+      "katalog_page": "/desain-se.html",
+      "home_page": "/desain-se.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-desain-se.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/desain-se.png",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/desain-se.png",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6283844699412",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/desain_se"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "ika-cell",
+      "pemilik": "Ika",
+      "nama": "Ika Cell",
+      "kontak": 6282329056501,
+      "katalog_page": "/ika-cell.html",
+      "home_page": "/ika-cell.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-ika-cell.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/ika-cell.svg",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/ika-cell.svg",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6282329056501",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/ikac_ell"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "elvan-cell",
+      "pemilik": "Adi Nurul Hidayah",
+      "nama": "Elvan Cell",
+      "kontak": 6281225248219,
+      "katalog_page": "/elvan-cell.html",
+      "home_page": "/elvan-cell.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-elvan-cell.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/elvan-cell.svg",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/elvan-cell-2.svg",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6281225248219",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 6,
+      "slug": "pinanggih-digital",
+      "pemilik": "Faqih Ulinuha",
+      "nama": "Pinanggih Digital",
+      "kontak": 6281228474201,
+      "katalog_page": "/pinanggih-digital.html",
+      "home_page": "/pinanggih-digital.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-pinanggih-digital.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/pinanggih-digital.svg",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/pinanggih-digital.svg",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6281228474201",
+        "facebook": "https://www.facebook.com/faqih.ulinuha.79",
+        "instagram": "https://www.instagram.com/faqih_ulinuha"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "salwa-project",
+      "pemilik": "Lilin Salwa",
+      "nama": "Salwa Project",
+      "kontak": 6285728783791,
+      "katalog_page": "/salwa-project.html",
+      "home_page": "/salwa-project.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-salwa-project.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/salwa-project-1.svg",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/salwa-project-2.svg",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6285728783791",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 8,
+      "slug": "kenta-digital-print",
+      "pemilik": "Kenta Digital Print",
+      "nama": "Kenta Digital Print",
+      "kontak": 6281388131018,
+      "katalog_page": "https://undangan.dekeku.my.id/kenta-digital-print.html",
+      "home_page": "https://undangan.dekeku.my.id/kenta-digital-print.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-kenta-digital-print.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/kenta-digital-print-1.png",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/kenta-digital-print-2.png",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6281388131018",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 9,
+      "slug": "gakha-grafika",
+      "pemilik": "Gakha Grafika",
+      "nama": "Gakha Grafika",
+      "kontak": 6282137991300,
+      "katalog_page": "/gakha-grafika.html",
+      "home_page": "/gakha-grafika.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/favicon-gakha-grafika.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/gakha-grafika.png",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/gakha-grafika.png",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6282137991300",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 10,
+      "slug": "corner-copier",
+      "pemilik": "Corner Copier",
+      "nama": "Corner Copier",
+      "kontak": 6281357911066,
+      "katalog_page": "/corner-copier.html",
+      "home_page": "/corner-copier.html",
+      "favicon": "https://ik.imagekit.io/mustofa/web/seller/logo/corner-copier.png",
+      "logo1": "https://ik.imagekit.io/mustofa/web/seller/logo/corner-copier.png",
+      "logo2": "https://ik.imagekit.io/mustofa/web/seller/logo/corner-copier.png",
+      "sosialMedia": {
+        "whatsApp": "https://wa.me/6281357911066",
+        "facebook": "",
+        "instagram": ""
+      }
+    }
+  ]
+}

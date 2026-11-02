@@ -4,7 +4,6 @@
 import { hideLoader, initConfig, gtag } from "./core/dekeku.js";
 import { loadAllData, setDataJson } from "./data/fetch.js";
 import { bindDataAttributes, observerDataAttributes } from "./dom/dataBinding.js";
-import { getEnvironment } from "./utils/dekeku.js";
 import { showAlert, waitForCondition, getDekeku, saveDekeku, pushUniqueObj, makeFlagProxy, waitUntilTrue, updateDataAtt, flattenWithPrefix, urwah } from "./utils/utils.js";
 import params, { writeURLParams, readURLParams } from "./utils/urlParams.js";
 
@@ -28,6 +27,18 @@ export const dekekuFunction = {
   flattenWithPrefix,
   params
 };
+
+// ========== URL API ==========
+const DEV_HOSTS = ["localhost", "127.0.0.1"];
+const DEV_API = "http://127.0.0.1:8787";
+const PROD_API = "https://api.dekeku.my.id";
+
+function getEnvironment() {
+  const host = location.hostname;
+  const isDev = DEV_HOSTS.includes(host);
+  const urlApi = isDev ? DEV_API : PROD_API;
+  return { isDev, urlApi, host };
+}
 
 // ========== Inisialisasi ==========
 async function init() {
